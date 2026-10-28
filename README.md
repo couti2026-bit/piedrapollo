@@ -1,4 +1,4 @@
-# Olá, sou eu! 👋
+# Olá, eu sou Piedra Pollo! 👋
 
 Estudante do Curso Técnico em Informática no **CEET Vasco Coutinho** (2º Módulo), com formação prévia em **Arte e Pedagogia**. Acredito no poder da tecnologia unida à sensibilidade humana e educacional para criar soluções acessíveis e funcionais.
 
