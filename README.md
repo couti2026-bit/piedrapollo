@@ -1,4 +1,12 @@
-# Olá, eu sou Piedra Pollo! 👋
+<h1 align="center">✦ Olá, eu sou Piedra Pollo! ✦</h1>
+
+<h3 align="center">
+  Desenvolvedora em formação | Arte • Educação • Tecnologia
+</h3>
+
+<p align="center">
+  Explorando possibilidades entre criatividade, conhecimento e inovação.
+</p>
 
 Estudante do Curso Técnico em Informática no **CEET Vasco Coutinho** (2º Módulo), com formação prévia em **Arte e Pedagogia**. Acredito no poder da tecnologia unida à sensibilidade humana e educacional para criar soluções acessíveis e funcionais.
 
