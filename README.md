@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src= "banner.png"
+     alt="Banner surrealista representando arte, educação e tecnologia"
+     width="100%">
+
+</div>
+
 <h1 align="center">✦ Olá, eu sou Piedra Pollo! ✦</h1>
 
 <h3 align="center">
